@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "Valetta",
+    "image": "https://www.planetware.com/photos-large/M/malta-valletta.jpg",
+    "description": "Osnovana 1566, Valletta je glavni grad Malte i ujedino jedan od najmanjih (i najjuznijih) glavnih gradova, sa mnogim gradjevinama iz Baroknog perioda. \n\nDa li ste ikad mastali o posjeti muzeja na otvorenom? Valletta je onda mozda pravo mjesto za vas.\n\n Sagradjen na poluostrvu izmedju dvije luke (Grand Harbour i Marsamxett Harbour), grad je smjesten na uzvisenju. Ulice su poredane u mrezu, duge su i ravne, sto omogucava protoh svjezeg morskog vjetra da rashladjuje Maltezane tokom toplih ljetnih dana.\n\nValletta je administrativni i trgovacki centar Malte, sa nekoliko drzavnih uprava koje su smjestene u istorijske gradjevine.\n\nUprkos svojoj maloj velicini, Valletta je prepuna istorijskih nalazista, sa gradjevina koje datiraju jos iz 16og vijeka.",
+    "longitude": "14.51472",
+    "latitude": "35.89972"
+  },
+  {
+    "id": 1,
+    "name": "Birgu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Birgu-Vittoriosa_-_Malta.jpg/1024px-Birgu-Vittoriosa_-_Malta.jpg",
+    "description": "Birgu (poznata jos kao  Vittoriosa) je najstariji grad u dijelu Malte koji se naziva Tri grada (koje cine Senglea i Cospicua) – 3 utvrdjena grada sagradjena na veoma maloj udaljenosti jedno od drugih oko Grand Harbour.\n\nNalazi se sa druge strane luke preko puta Valletta.\n\nSluzio je kao glavni grad od 1530 do 1571 dok Valletta nije sagradjena. Vitezovi su mudro izgradili tvrđavu St Angelo na samom vrhu Birgua zbog njenog strateškog položaja s pogledom na Veliku luku. Osim što je bila njihov stambeni prostor, u ovoj se utvrdi nalazio i arsenal Reda. Utvrda je štitila luku, jamčeći sigurno sidrište, što je zauzvrat promicalo trgovačke i vojne aktivnosti.\n\nU današnjem Birguu živi gotovo 3000 stanovnika. Birgu se polako razvija u istaknuti povijesni izlog malteške tradicije koji nosi srednjovjekovnu nostalgiju kroz uske vijugave ulice, uličice i preuređene gradske kuće. Vinski barovi, mali elegantni restorani i riva Birgu donijeli su novi život malom gradu.\n\nOsim što je lijepo mjesto za posjetiti za večernji izlazak, ima puno toga za vidjeti i istražiti, pa se isplati planirati jednodnevni izlet.",
+    "longitude": "14.522562",
+    "latitude": "35.887921"
+  },
+  {
+    "id": 2,
+    "name": "Bormla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cospicua_Dock_1.jpg/800px-Cospicua_Dock_1.jpg",
+    "description": "Bormla ili Cospicua (također poznat po svojim naslovima Città Cospicua ili Civitas Cottonera, dvostruko je utvrđeni lučki grad u jugoistočnoj regiji Malte. Uz Birgu i Senglea, jedan je od tri grada, smještena unutar Velike luke za istočno od glavnog grada Vallette. S populacijom od 5.395 u ožujku 2014., to je najgušći grad od tri grada.\n\nSa svojih šest kilometara utvrda, dom je impresivne župne crkve s prepunom oratoriju Isla ima dvije zadivljujuće crkve (Sv. Filip i Gospa od Pobjednika) i ima prekrasan vrt na svom vrhu s pogledom na Veliku luku gdje možete pronaći sjajan primjer Gardjola stražarnice.",
+    "longitude": "14.521834",
+    "latitude": "35.880675"
+  },
+  {
+    "id": 3,
+    "name": "Midina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg/1024px-Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg",
+    "description": "Midina je jedno od najpopularnijih turističkih odredišta Malte jer nigdje nema takvog mjesta. Smješten na vrhu brda s kojeg se pruža pogled na velike dijelove Malte, to je mali gradić, bogat poviješću i utvrđen visokim bastionskim utvrdama. Prepuna je stoljetnih zgrada koje su se dobro održavale kroz stoljeća.\n\nMdina je bila glavni grad Malte sve do dolaska Malteških vitezova 1530.\n\nMidina, koja se naziva i Tihi grad, okružena je utvrđenim bedemima i nalazi se na vrhu jednog od najviših brda Malte.",
+    "longitude": "14.406836",
+    "latitude": "35.888093"
+  },
+  {
+    "id": 4,
+    "name": "Qormi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sait_George_Church%2C_Qormi.jpeg/800px-Sait_George_Church%2C_Qormi.jpeg",
+    "description": "Qormi, također poznat po svom nazivu Città Pinto, je grad u južnoj regiji Malte, jugozapadno od Vallette u središtu otoka. Ima 16.324 stanovnika (od ožujka 2018.), što ga čini petim po veličini gradom na Malti.\n\nNjegovi granični gradovi su Marsa, Luqa, Żebbuġ, Siġġiewi, Ħamrun, Birkirkara, Attard,i Balzan. nStariji stanovnici Qormija govore širokim dijalektom Qormi, koji je sada u opadanju.",
+    "longitude": "14.469419",
+    "latitude": "35.876439"
+  },
+  {
+    "id": 5,
+    "name": "Rabat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg/1024px-Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg",
+    "description": "Rabat, grad koji se nalazi na pragu Mdine (i nekada se smatrao njegovim predgrađem), s druge strane, poznat je po svom mirnom, više ruralnom karakteru i prirodnim ljepotama. Osim što nudi nekoliko ključnih muzeja i zanimljivosti, Rabat je također poznat po jednom od rijetkih šumskih područja koje zemlja poznaje, u vrtovima Buskett, čiji se ulaz nalazi na periferiji sela.\n\nRabat je poznat po mirnom karakteru, šumovitom području Busketta i atrakcijama kao što su rimski Domus i katakombe sv.",
+    "longitude": "14.373372",
+    "latitude": "35.885499"
+  },
+  {
+    "id": 6,
+    "name": "Senglea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Malta_-_Senglea_%2B_The_Spur_%28Herbert_Ganado_Gardens%29_01_ies.jpg/1024px-Malta_-_Senglea_%2B_The_Spur_%28Herbert_Ganado_Gardens%29_01_ies.jpg",
+    "description": "Senglea, također poznat po svom nazivu Città Invicta (ili Civitas Invicta), je utvrđeni grad u jugoistočnoj regiji Malte. To je jedan od tri grada u području Velike luke, druga dva su Cospicua i Vittoriosa, a ima oko 2720 stanovnika. Grad je dobio naziv Città Invicta jer se uspio oduprijeti invaziji Osmanlija u Velikoj opsadi Malte 1565. Ime Senglea potiče od velikog majstora koji ga je izgradio Claude de la Sengle i gradu dao dio svog imena. Dok je Senglea 52. najnaseljenije mjesto na otoku, zbog svoje nevjerojatno male kopnene površine, to je 2. najgušće naseljeno mjesto nakon Slieme.",
+    "longitude": "14.516737",
+    "latitude": "35.887304"
+  },
+  {
+    "id": 7,
+    "name": "Siggiewi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DIMG_1302_%284996550067%29.jpg/1280px-DIMG_1302_%284996550067%29.jpg",
+    "description": "Siġġiewi koji se također naziva Città Ferdinand, je grad i mjesno vijeće u južnoj regiji Malte. To je treće najveće vijeće na Malti po površini, nakon Rabata i Mellieħe. Smješten je na visoravni, nekoliko kilometara udaljen od Midine, drevnog glavnog grada Malte, i 10 kilometara (6 milja) od Vallette, suvremene prijestolnice. Od ožujka 2014. u njemu živi 8367 stanovnika.\n\nDo prije nekoliko desetljeća većina stanovništva bila je zaposlena na poljima koja okružuju selo. Godine 1993. grad je usvojio moto Labore et Virtute",
+    "longitude": "14.431575",
+    "latitude": "35.846374"
+  },
+  {
+    "id": 8,
+    "name": "Zabbar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%C5%BBabbar_Churches.jpg/1024px-%C5%BBabbar_Churches.jpg",
+    "description": "Żabbar, također poznat kao Città Hompesch, je grad u jugoistočnoj regiji Malte. To je sedmi po veličini grad u zemlji, s procijenjenim brojem stanovnika od 15.648 u siječnju 2021. Izvorno dio Żejtuna, Żabbar je dobio titulu Città Hompesch od posljednjeg od velikih majstora Reda sv Jovana. vladao na Malti, Ferdinand von Hompesch zu Bolheim.",
+    "longitude": "14.545135",
+    "latitude": "35.872472"
+  },
+  {
+    "id": 9,
+    "name": "Zebbug",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Malte%2C_Zebbug_2011_04_22.jpg/1024px-Malte%2C_Zebbug_2011_04_22.jpg",
+    "description": "Żebbuġ, također poznat po svom nazivu Città Rohan, je grad u južnoj regiji Malte. Jedan je od najstarijih gradova u zemlji, a od juna 2021. ima 11.074 stanovnika.",
+    "longitude": "14.439084",
+    "latitude": "35.876465"
+  },
+  {
+    "id": 10,
+    "name": "Zejtun",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/ZTN_city_center.jpg",
+    "description": "Żejtun je grad u jugoistočnoj regiji Malte, s populacijom od 11.218 krajem 2016. Żejtun je tradicionalno poznat kao Città Beland, titula koju je dodijelio velemajstor Malteškog viteškog reda Ferdinand von Hompesch zu Bolheim 1797. godine. Prije toga, selo je bilo poznato kao Casale Santa Caterina, nazvano po svom svecu zaštitniku i župnom titularu.\n\nŻejtun je veliko središte na ostrvu, sa značajnim doprinosom ostrvskoj istoriji, umjetnosti i trgovini . Jedno od glavnih industrijskih imanja u zemlji, Bulebel, nalazi se na granici grada. Żejtun sadrži niz važnih lokaliteta baštine, kao što su župna crkva sv. Katarine, stara crkva sv. Katarine – poznata kao sv. Grgura, brojne zavjetne kapelice i ostaci rimske vile. Župa Żejtun jedna je od najstarijih na ostrvima i postojala je već 1436. godine. Prvobitna župna crkva sagrađena je u 12. vijeku, a obnovljena 1492.",
+    "longitude": "14.536397",
+    "latitude": "35.854871"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "Valetta",
+    "image": "https://www.planetware.com/photos-large/M/malta-valletta.jpg",
+    "description": "Founded in 1566, Valletta is Malta’s capital city and is one of Europe’s smallest (and southern-most) capital cities, with many buildings having a strong Baroque character. \n\nEver fancied yourself exploring what feels like one huge open-air museum? Valletta might just be the perfect place for you.\n\nBuilt on a peninsula between two natural harbours (Grand Harbour and Marsamxett Harbour), the city sits perched on higher ground. Its streets were aligned in a grid-like layout, being wide and straight, which is said to have been chosen to allow the sea breeze to provide respite from Malta’s hot summer weather.\n\nValletta is Malta’s administrative and commercial hub, with several government departments occupying some of its historical buildings and several financial and logistics companies having their offices here.\n\nDespite its small size, Valletta is packed with sites of historical significance, with buildings dating back to the 16th century. So much so that it’s been an officially listed UNESCO World Heritage site since 1980.",
+    "longitude": "14.51472",
+    "latitude": "35.89972"
+  },
+  {
+    "id": 1,
+    "name": "Birgu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Birgu-Vittoriosa_-_Malta.jpg/1024px-Birgu-Vittoriosa_-_Malta.jpg",
+    "description": "Birgu (also referred to as Vittoriosa) is the oldest of a part of Malta referred to as The Three Cities (which also consist of Senglea and Cospicua) – three fortified towns built in very close proximity to each other around the Grand Harbour.\n\nIt’s located right across the harbour from Valletta, facing Malta capital city’s south-facing side.\n\nIt served as the capital city of Malta between 1530 and 1571 until Valletta was built. The Knights wisely built Fort St Angelo at the very tip of Birgu due to its strategic position overlooking the Grand Harbour. Apart from being their living quarters, this fort also housed the arsenal of the Order. The fort protected the harbour, guaranteeing safe anchorage, which in turn promoted mercantile and military activities.\n\nModern-day Birgu is home to a population of almost 3,000 citizens. Birgu is slowly developing into a high profile historical showcase of Maltese tradition that carries Medieval nostalgia across its narrow winding streets, alleyways, and converted townhouses. Wine bars, tiny elegant restaurants, and the Birgu waterfront have brought new life to the small city.\n\nApart from being a nice place to visit for an evening out, there’s a lot to see and explore, and it’s well worth planning a day trip for.",
+    "longitude": "14.522562",
+    "latitude": "35.887921"
+  },
+  {
+    "id": 2,
+    "name": "Bormla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cospicua_Dock_1.jpg/800px-Cospicua_Dock_1.jpg",
+    "description": "Bormla or Cospicua (also known by its titles Città Cospicua or Civitas Cottonera, is a double-fortified harbour city in the South Eastern Region of Malta. Along with Birgu and Senglea, it is one of the Three Cities, located within the Grand Harbour to the east of the capital city Valletta. With a population of 5,395 as of March 2014, it is the most dense city of the Three Cities.\n\nwith its six kilometres of fortifications, is home to an impressive parish church with an oratory full of works of art. Isla hosts two astounding churches (namely St Philips and Our Lady of Victories) and has a lovely garden at its tip overlooking Grand Harbour where you can find a great example of a Gardjola watch post.",
+    "longitude": "14.521834",
+    "latitude": "35.880675"
+  },
+  {
+    "id": 3,
+    "name": "Midina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg/1024px-Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg",
+    "description": "Midina is one of Malta’s most popular tourist destinations because there’s no place like it anywhere. Sitting on top of a hill overlooking large parts of Malta, it’s a small town, rich in history and fortified by tall bastion fortifications. It’s filled with centuries-old buildings that have been well maintained throughout the ages.\n\nMdina was Malta’s capital city until the Knights of Malta arrived in 1530\n\nMdina, also called the Silent City, is surrounded by fortified bastion walls and sits on top of one of the highest hills of Malta.",
+    "longitude": "14.406836",
+    "latitude": "35.888093"
+  },
+  {
+    "id": 4,
+    "name": "Qormi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sait_George_Church%2C_Qormi.jpeg/800px-Sait_George_Church%2C_Qormi.jpeg",
+    "description": "Qormi , also known by its title Città Pinto, is a city in the Southern Region of Malta, southwest of Valletta in the centre of the island. It has a population of 16,324 (as of March 2018), making it Malta's fifth-largest city.\n\nIts bordering towns are Marsa, Luqa, Żebbuġ, Siġġiewi, Ħamrun, Birkirkara, Attard, Santa Venera and Balzan.\n\nElder inhabitants of Qormi speak a broad Qormi Dialect, which is now in decline.",
+    "longitude": "14.469419",
+    "latitude": "35.876439"
+  },
+  {
+    "id": 5,
+    "name": "Rabat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg/1024px-Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg",
+    "description": "Rabat, the town that’s located on Mdina’s doorstep (and once considered to be its suburb), on the other hand, is known for its quiet, more rural character and natural beauty. Apart from offering a few key museums and points of interest, Rabat is also known for one of the few forested areas the country knows, at Buskett Gardens, the entrance to which can be found on the outskirts of the village.\n\nRabat is known for its quiet character, the forested area of Buskett and attractions such as the Roman Domus and St Paul’s Catacombs",
+    "longitude": "14.373372",
+    "latitude": "35.885499"
+  },
+  {
+    "id": 6,
+    "name": "Senglea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Malta_-_Senglea_%2B_The_Spur_%28Herbert_Ganado_Gardens%29_01_ies.jpg/1024px-Malta_-_Senglea_%2B_The_Spur_%28Herbert_Ganado_Gardens%29_01_ies.jpg",
+    "description": "Senglea , also known by its title Città Invicta (or Civitas Invicta), is a fortified city in the South Eastern Region of Malta. It is one of the Three Cities in the Grand Harbour area, the other two being Cospicua and Vittoriosa, and has a population of approximately 2,720 people. The city's title Città Invicta was given because it managed to resist the Ottoman invasion at the Great Siege of Malta in 1565. The name Senglea comes from the Grand Master who built it Claude de la Sengle and gave the city a part of his name. While Senglea is the 52nd most populated locality on the island, due to its incredibly small land area, it is the 2nd most densely populated locality after Sliema.",
+    "longitude": "14.516737",
+    "latitude": "35.887304"
+  },
+  {
+    "id": 7,
+    "name": "Siggiewi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DIMG_1302_%284996550067%29.jpg/1280px-DIMG_1302_%284996550067%29.jpg",
+    "description": "Siġġiewi also called by its title Città Ferdinand, is a city and a local council in the Southern Region of Malta. It is the third largest council in Malta by surface area, after Rabat and Mellieħa respectively. It is situated on a plateau, a few kilometres away from Mdina, the ancient capital city of Malta, and 10 kilometres (6 miles) away from Valletta, the contemporary capital. It is the home of 8367 inhabitants as of March 2014.\n\nUntil several decades ago, most of the population was employed in the fields which surround the village. In 1993, the city adopted the motto Labore et Virtute",
+    "longitude": "14.431575",
+    "latitude": "35.846374"
+  },
+  {
+    "id": 8,
+    "name": "Zabbar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%C5%BBabbar_Churches.jpg/1024px-%C5%BBabbar_Churches.jpg",
+    "description": "Żabbar, also known as Città Hompesch, is a city in the South Eastern Region of Malta. It is the seventh largest city in the country, with an estimated population of 15,648 as of January 2021. Originally a part of Żejtun, Żabbar was granted the title of Città Hompesch by the last of the Grand Masters of the Order of St. John to reign in Malta, Ferdinand von Hompesch zu Bolheim.",
+    "longitude": "14.545135",
+    "latitude": "35.872472"
+  },
+  {
+    "id": 9,
+    "name": "Zebbug",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Malte%2C_Zebbug_2011_04_22.jpg/1024px-Malte%2C_Zebbug_2011_04_22.jpg",
+    "description": "Żebbuġ, also known by its title Città Rohan, is a city in the Southern Region of Malta. It is one of the oldest towns in the country, and its population is 11,074 as of June 2021",
+    "longitude": "14.439084",
+    "latitude": "35.876465"
+  },
+  {
+    "id": 10,
+    "name": "Zejtun",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/ZTN_city_center.jpg",
+    "description": "Żejtun is a city in the South Eastern Region of Malta, with a population of 11,218 in the end of 2016. Żejtun is traditionally known as Città Beland, a title conferred by the grandmaster of the Order of the Knights of Malta, Ferdinand von Hompesch zu Bolheim in 1797. Before that, the village was known as Casale Santa Caterina, named after its patron saint and parish titular.\n\nŻejtun is a major centre on the islands, with a significant contribution to the islands' history, arts and commerce. One of the country's principal industrial estates, Bulebel, can be found on the city's borders. Żejtun contains a number of important heritage sites, such as St Catherine's Parish Church, St Catherine's Old Church – known as St Gregory's, numerous votive chapels, and the remains of a Roman villa. The parish of Żejtun is one of the oldest on the islands and already existed in 1436. The original parish church was built in the 12th century, and rebuilt in 1492",
+    "longitude": "14.536397",
+    "latitude": "35.854871"
+  }
+]

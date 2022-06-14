@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Mellieha Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/mellieha_bay.jpg",
+    "description": "Mellieha Bay (također poznat kao Ghadira Bay) je najduža i najpopularnija pješčana plaža na Malteškim ostrvima. Zgodni kafići prodaju hranu i piće, što vam omogućava da ostanete na licu mjesta bez odmora od opuštanja. 15 minuta hoda vodi uz strmo brdo do grada Mellieha koji se brzo razvija, slikovito smještenog na vrhu grebena. Obližnje atrakcije uključuju selo Popaj, set filma iz 1980. i restaurirani toranj Sv. Agate iz 17. vijeka.",
+    "longitude": "14.354039",
+    "latitude": "35.969601"
+  },
+  {
+    "id": 1,
+    "name": "Citadella",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/the_citadella.jpg",
+    "description": "Na ostrvu Gozo i u gradu Viktoriji nalazi se zadivljujući primjer antičke arhitekture, Citadela. To je vekovima bilo glavno utvrđenje stanovnika. Prvi put je utvrđen oko 1500. godine prije Hrista, a nastavili su ga razvijati Feničani sve dok u rimsko doba nije postao složena Akropolja. Postojeće strukture pozivaju istraživače svih uzrasta da lutaju bedemima, ostavama i tunelima. Pogled sa Citadele se ne propušta. Još bolji je pogled na samu Citadelu dok sunce zalazi.",
+    "longitude": "14.239444",
+    "latitude": "36.046391"
+  },
+  {
+    "id": 2,
+    "name": "Hypogeum",
+    "image": "https://www.touropia.com/gfx/d/oldest-temples-in-the-world/hypogeum.jpg",
+    "description": "Hipogeum Ħal-Saflieni u gradu Paola jedini je praistorijski podzemni hram na svijetu. Hram se sastoji od dvorana, odaja i prolaza isklesanih u stijeni. Za koje se mislilo da je prvobitno bilo svetilište, u praistorijsko doba postalo je nekropola. Kompleks je grupisan u tri nivoa – gornji nivo (3600-3300 pne), srednji nivo (3300-3000 pne) i donji nivo (3150-2500 pne). Najdublja prostorija u donjem nivou je 10,6 metara (35 stopa) ispod zemlje. Samo ograničenom broju posjetioca je dozvoljen ulaz i može se čekati 2-3 sedmice da se dobije karta.",
+    "longitude": "14.506389",
+    "latitude": "35.869999"
+  },
+  {
+    "id": 3,
+    "name": "Blue Lagoon Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/blue_lagoon_bay.jpg",
+    "description": "Nalazi se na malom ostrvu Comino koje se nalazi između glavnih ostrva Malte i Goza. Ostrvo je toliko malo da automobili nisu dozvoljeni na njemu. Takođe je uglavnom nenaseljen i samo jedan hotel se nalazi na licu mesta. Većina ljudi svakodnevno stiže gliserom kako bi zauzeli svoj dio pijeska u laguni za taj dan. Pjenušava tirkizna voda i bijeli pijesak čine predivnu pozadinu za sunčanje, plivanje, ronjenje i jednostavno uživanje u prekrasnim pogledima.",
+    "longitude": "14.323553",
+    "latitude": "36.014015"
+  },
+  {
+    "id": 4,
+    "name": "Golden Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/golden_bay.jpg",
+    "description": "Golden Bay je jedna od rijetkih pješčanih plaža na sjeverozapadnoj obali Malte, a potom i jedna od najpopularnijih. Ležaljke i suncobrani su lako dostupni za iznajmljivanje kako biste osigurali ugodan dan na pijesku. Nekoliko klubova na plaži i veliki hotel nalaze se u blizini plaže. Budući da je to tako poznata plaža i prima toliko turista, postoji nekoliko prodavaca u okolini koji nude iznajmljivanje opreme za razne vodene sportove. Jedan od najboljih načina da uživate na ovoj plaži je u zalasku sunca kada ona zaista opravdava svoje ime.",
+    "longitude": "14.344525",
+    "latitude": "35.93391"
+  },
+  {
+    "id": 5,
+    "name": "Marsaxlokk",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/marsaxlokk.jpg",
+    "description": "Ovo slikovito ribarsko selo udaljeno je samo 30 minuta vožnje autobusom od Valette. Autobusom je možda najbolji način da stignete do tamo, pogotovo jer je poznato da je teško parkirati u Marsaxlokku, posebno u blizini rive. Selo je vrlo prohodno, a sa svojom živopisnom dnevnom pijacom, šetnja je najbolji način da ga doživite. Pogled na jarko oslikane luzzu ribarske čamce u zaljevu i mirno okruženje čine ovo vrlo ugodnim mjestom za ručak u jednom od restorana na obali.",
+    "longitude": "14.544722",
+    "latitude": "35.841667"
+  },
+  {
+    "id": 6,
+    "name": "Mdina",
+    "image": "https://www.touropia.com/gfx/d/old-medina/mdina.jpg",
+    "description": "Mdina je drevni grad opasan zidinama koji su naselili i vjerojatno prvi utvrdili Feničani oko 700. godine prije Hrista. Više utvrde su dodali malteški arapski vladari i normanski vladari. Nakon dolaska vitezova Hospitalera sredinom 1500-ih, važnost Mdine kao sjedišta moći je blijedila. Ono što je nekada bila stara prestonica Malte postalo je „tihi grad“, gotovo grad duhova. Danas se većina palata stare aristokratije obnavlja i turisti oživljavaju ovo mjesto, ali je ostalo samo 300 stanovnika.",
+    "longitude": "14.403056",
+    "latitude": "35.885834"
+  },
+  {
+    "id": 7,
+    "name": "Azure Window",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/azure_window.jpg",
+    "description": "Prekrasan prirodni luk sa ravnim vrhom, Azure Window je jedna od glavnih atrakcija Goza. Prikazan je u filmovima i televizijskim emisijama i smatra se nezaobilaznim dijelom iskustva Malte. U blizini se nalazi turističko naselje Dwejra koje služi potrebama posjetitelja koji rone, plivaju i plove oko luka gdje se spušta u zaljev Dwejra. Dostupne su ture brodom, nudeći obilje mogućnosti za snimanje sjajnih slika. Luk je vidljiv sa velike udaljenosti. Većina ljudi planinari tamo, uživajući u izvanrednom pogledu dok idu, a zatim se rashlađuju u vodi.",
+    "longitude": "14.188333",
+    "latitude": "36.053333"
+  },
+  {
+    "id": 8,
+    "name": "Katedrala sv. Jovana",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/st_johns_co_cathedral.jpg",
+    "description": "Smeštena u glavnom gradu Malte, Valeti, Kokatedrala Svetog Jovana je prepoznata kao izuzetan primer barokne arhitekture. Njegova spoljašnjost je zabranjujuća i varljiva, jer veoma liči na tvrđavu. Kada uđu, posetioci otkrivaju kitnjastu dekoraciju i neprocenjiva umetnička dela. Možda najprepoznatljivije delo je Karavađovo Usekovanje glave Svetog Jovana Krstitelja. Katedrala je puštena u rad 1572. godine i trebalo je da bude samostanska crkva za Vitezove Svetog Jovana, plemićkog reda sastavljenog od sinova nekih od vodećih evropskih porodica. Vitezovi su branili Maltu od pljačkaških Turaka, a zatim su nastavili da grade Valetu i katedralu.",
+    "longitude": "14.512778",
+    "latitude": "35.897778"
+  },
+  {
+    "id": 9,
+    "name": "Hagar Kim and Mnajdra",
+    "image": "https://www.touropia.com/gfx/d/oldest-temples-in-the-world/hagar_qim_and_mnajdra.jpg",
+    "description": "Praistorijski hramovi Hagar Kim i Mnajdra nalaze se na južnoj obali Malte, smešteni na vrhu litice i gledaju na ostrvo Filfla. Hramovi datiraju oko 3600-3200 godina pre nove ere. Hagar Kim se sastoji od niza međusobno povezanih, ovalnih odaja bez uniformnog rasporeda, a razlikuje se od drugih malteških hramova po tome što nema pravilan trolisni plan. Mnajdra, 700 metara (2.300 stopa) hoda nizbrdo od Ħagar Kima, je detaljnije. Postoje tri hrama jedan pored drugog, svaki sa trolisnim planom i različitom orijentacijom. Odličan centar za posetioce nudi mnoge interaktivne izložbe. To je prikladan način da započnete istraživanje samih hramova. Pogled na more iza je spektakularan.",
+    "longitude": "14.442222",
+    "latitude": "35.827778"
+  }
+]

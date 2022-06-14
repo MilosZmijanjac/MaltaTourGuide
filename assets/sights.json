@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Mellieha Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/mellieha_bay.jpg",
+    "description": "Mellieha Bay (also known as Ghadira Bay) is the longest and most popular sandy beach in the Maltese Islands. Handy cafes sell food and drinks, making it possible to stay onsite without taking a break from the relaxation. A 15-minute walk leads up the steep hill to the rapidly developing town of Mellieha, perched picturesquely atop a ridge. Nearby attractions include Popeye Village, the set of the 1980 film and the restored St. Agathas Tower from the 17th century.",
+    "longitude": "14.354039",
+    "latitude": "35.969601"
+  },
+  {
+    "id": 1,
+    "name": "The Citadella",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/the_citadella.jpg",
+    "description": "On the island of Gozo and within the city of Victoria rests a stunning example of ancient architecture, the Citadella. It was the inhabitants’ main fortification for centuries. It was first fortified around 1500BC, and continued development by the Phoenicians until, by Roman times, it had become a complex Acropolis. The existing structures invite explorers of all ages to wander through ramparts, store rooms and tunnels. The views from the Citadella are not to be missed. Even better is the view of the Citadella itself as the sun goes down.",
+    "longitude": "14.239444",
+    "latitude": "36.046391"
+  },
+  {
+    "id": 2,
+    "name": "Hypogeum",
+    "image": "https://www.touropia.com/gfx/d/oldest-temples-in-the-world/hypogeum.jpg",
+    "description": "The Ħal-Saflieni Hypogeum in the city of Paola is the only prehistoric underground temple in the world. The temple consists of halls, chambers and passages carved out of rock. Thought to be originally a sanctuary, it became a necropolis in prehistoric times. The complex is grouped in three levels – the upper level (3600-3300 BC), the middle level (3300-3000 BC), and the lower level (3150 -2500 BC). The deepest room in the lower level is 10.6 meters (35 ft) underground. Only a limited number of visitors are allowed entry and there can be a 2-3 weeks wait to get a ticket.",
+    "longitude": "14.506389",
+    "latitude": "35.869999"
+  },
+  {
+    "id": 3,
+    "name": "Blue Lagoon Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/blue_lagoon_bay.jpg",
+    "description": "Found on the tiny island of Comino which sits between the main islands of Malta and Gozo, the Blue Lagoon is a restful getaway. The island is so small that no cars are allowed on it. It is also largely uninhabited and only one hotel is located onsite. Most people arrive on a daily basis via speed boat to claim their own section of sand on the lagoon for the day. Sparkling turquoise waters and white sand make a lovely backdrop for sunbathing, swimming, snorkeling and simply enjoying the beautiful views.",
+    "longitude": "14.323553",
+    "latitude": "36.014015"
+  },
+  {
+    "id": 4,
+    "name": "Golden Bay",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/golden_bay.jpg",
+    "description": "Golden Bay is one of the few sand beaches on the north west coast of Malta, and subsequently also one of the most popular. Sun beds and umbrellas are readily available for hire to ensure a comfortable day on the sand. Several beach clubs and a large hotel are located near the beach. Because it’s such a well-known beach and receives so many tourists, there are several vendors in the area offering rental equipment for various water sports. One of the best ways to enjoy this beach is at sunset when it truly lives up to its name.",
+    "longitude": "14.344525",
+    "latitude": "35.93391"
+  },
+  {
+    "id": 5,
+    "name": "Marsaxlokk",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/marsaxlokk.jpg",
+    "description": "This picturesque fishing village is just a 30 minute bus ride from Valletta. Taking the bus is perhaps the best way to get there, particularly since it’s notoriously difficult to park in Marsaxlokk, especially near the waterfront. The village is very walkable, and with its colorful daily marketplace, strolling is the best way to experience it. The sight of the brightly painted luzzu fishing boats in the bay and the tranquil surroundings make this a very pleasant place to have lunch at one of the quayside restaurants.",
+    "longitude": "14.544722",
+    "latitude": "35.841667"
+  },
+  {
+    "id": 6,
+    "name": "Mdina",
+    "image": "https://www.touropia.com/gfx/d/old-medina/mdina.jpg",
+    "description": "Mdina is an ancient walled city inhabited and possibly first fortified by the Phoenicians around 700 BC. Higher fortifications were added by Malta’s Arab rulers and Norman rulers. After the Knights Hospitaller arrived in the mid 1500’s the importance of Mdina as the seat of power faded steadily. What was once the old capital of Malta became the ‘silent city’, almost a ghost town. Today most of the palazzos belonging to the old aristocracy are being restored and the tourists bring life to the place, but there are only 300 inhabitants left.",
+    "longitude": "14.403056",
+    "latitude": "35.885834"
+  },
+  {
+    "id": 7,
+    "name": "Azure Window",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/azure_window.jpg",
+    "description": "A breathtaking natural limestone arch with a flat top, the Azure Window is one of Gozo’s top attractions. It’s been featured in movies and television shows, and is considered an indispensable part of the Malta experience. The tourist village of Dwejra is nearby to serve the needs of visitors who scuba dive, swim and boat around the arch where it drops into the Dwejra Bay. Boat tours are available, offering plenty of opportunities to capture great pictures. The arch is visible from a great distance. Most people hike there, enjoying the extraordinary view as they go and then cooling off in the water.",
+    "longitude": "14.188333",
+    "latitude": "36.053333"
+  },
+  {
+    "id": 8,
+    "name": "St. John's Co-Cathedral",
+    "image": "https://www.touropia.com/gfx/d/tourist-attractions-in-malta/st_johns_co_cathedral.jpg",
+    "description": "Situated in Malta’s capital city of Valletta, the St. John’s Co-Cathedral is recognized as an outstanding example of Baroque architecture. Its exterior is forbidding and deceptive, as it closely resembles a fort. Once inside, visitors discover ornate decoration and priceless works of art. Perhaps the most recognizable piece is Caravaggio’s the Beheading of Saint John the Baptist. The cathedral was commissioned in 1572, and was intended to be the conventual church for the Knights of St. John, a noble order made up of the sons of some of Europe’s leading families. The knights defended Malta against marauding Turks, then proceeded to build Valletta and the cathedral.",
+    "longitude": "14.512778",
+    "latitude": "35.897778"
+  },
+  {
+    "id": 9,
+    "name": "Hagar Qim and Mnajdra",
+    "image": "https://www.touropia.com/gfx/d/oldest-temples-in-the-world/hagar_qim_and_mnajdra.jpg",
+    "description": "The prehistoric temples of Hagar Qim and Mnajdra are found on the south coast of Malta, perched on top of a cliff and overlooking the islet of Filfla. The temples date back to around 3600-3200 BC. Hagar Qim consists of a series of interconnected, oval chambers with no uniform arrangement, and differs from other Maltese temples in lacking a regular trefoil plan. Mnajdra, a 700 meter (2,300 foot) walk downhill from Ħaġar Qim, is more elaborate. There are three temples side by side, each with the trefoil plan and a different orientation. An excellent visitor center offers many interactive exhibits. It is a fitting way to begin an exploration of the temples themselves. The views of the sea beyond are spectacular.",
+    "longitude": "14.442222",
+    "latitude": "35.827778"
+  }
+]

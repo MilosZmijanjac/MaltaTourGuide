@@ -1,0 +1,79 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MaltaTourGuide" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/maltaRed</item>
+        <item name="colorPrimaryVariant">@color/maltaRed2</item>
+        <item name="colorOnPrimary">@color/backgroundGrey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/maltaRed3</item>
+        <item name="colorSecondaryVariant">@color/maltaRed3</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+
+
+    <style name="Theme.MaltaTourGuide.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MaltaTourGuide.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MaltaTourGuide.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Style for the IMAGES in the WordItem list (list_item.xml, ImageView ID item_photo) -->
+    <style name="ImagesInWordItemListStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cropToPadding">true</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_marginLeft">@dimen/text_margin</item>
+        <item name="android:layout_marginStart">@dimen/text_margin</item>
+        <item name="android:layout_marginRight">@dimen/text_margin</item>
+        <item name="android:layout_marginEnd">@dimen/text_margin</item>
+    </style>
+
+    <!-- Style for the NAME in the WordItem list (list_item.xml, TextView ID item_name) -->
+    <style name="WordItemListNameStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/text_margin</item>
+        <item name="android:layout_marginStart">@dimen/text_margin</item>
+        <item name="android:layout_marginRight">@dimen/text_margin</item>
+        <item name="android:layout_marginEnd">@dimen/text_margin</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <!-- Style for the other WORD ITEMS in the WordItem list (list_item.xml, TextView IDs
+   detail_item_one, detail_item_two, detail_item_three, detail_item_description) -->
+    <style name="WordItemListInfoStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/text_margin</item>
+        <item name="android:layout_marginStart">@dimen/text_margin</item>
+        <item name="android:layout_marginRight">@dimen/text_margin</item>
+        <item name="android:layout_marginEnd">@dimen/text_margin</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.MaltaTourGuide.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="colorPrimaryDark">@color/maltaRed3</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimary">@color/maltaRed</item>
+        <item name="colorPrimaryVariant">@color/maltaRed2</item>
+        <item name="colorOnPrimary">@color/backgroundGrey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/maltaRed3</item>
+        <item name="colorSecondaryVariant">@color/maltaRed3</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+</resources>

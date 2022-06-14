@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Malta Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Malta Tour Guide</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_cities">Gradovi</string>
+    <string name="menu_sights">Znamenitosti</string>
+    <string name="menu_news">Novosti</string>
+    <string name="menu_about">Opis</string>
+    <string name="menu_settings">Podešavanja</string>
+    <string name="menu_general">Uopšteno</string>
+
+
+
+    <string name="general_flag">Zastava Malte</string>
+
+    <string name="capital">Glavni grad:</string>
+    <string name="gdp">BDP:</string>
+    <string name="population">Populacija:</string>
+    <string name="region">Regija:</string>
+    <string name="area">Površina:</string>
+    <string name="time_zone">Vremenska zona:</string>
+    <string name="calling_code">Pozivni broj:</string>
+    <string name="demonym">Demonim:</string>
+    <string name="language">Jezik:</string>
+    <string name="mt_eng">Malteški i Engleski</string>
+    <string name="den">Malta</string>
+    <string name="europe">Evropa</string>
+    <string name="background">Ostrvska država Malta nalazi se u Sredozemnom moru, južno od Sicilije (Italija) sastoji se od tri ostrva: Malte, Gozo i Komino, od kojih je Malta najveće ostrvo. Malteški arhipelag je u svojoj istoriji uvek bio strateški značajan za dominaciju na Mediteranu. \n\nMalta je postala članica EU u maju 2004. Velika Britanija je formalno stekla posed Malte početkom 19. veka. Ostrvo je podržavalo Veliku Britaniju tokom oba svetska rata i ostalo je u Komonveltu kada je postalo nezavisno 1964. Malta je 13. decembra 1974. postala republika. Tokom poslednjih 15 godina, ostrvo je postalo glavna tačka za pretovar tereta, finansijski centar i popularna turistička destinacija.</string>
+    <string name="background_label">Istorija:</string>
+    <string name="anthem">Himna:</string>
+    <string name="title_activity_maps_sights">MapsSightsActivity</string>
+    <string name="title_activity_maps_cities">MapsCitiesActivity</string>
+
+
+    <!-- Sync Preferences -->
+    <string name="news_header">Novosti</string>
+    <string name="caching_title">Keširanje</string>
+    <string name="language_header">Jezik</string>
+    <string name="summary_off">Omogući keširanje</string>
+    <string name="summary_on">Onemogući keširanje</string>
+    <string name="city_header">Gradovi</string>
+    <string name="default_language">Engleski</string>
+    <string name="photos_pref_title">Broj slika po gradu</string>
+    <string name="videos_pref_title">Broj videa po gradu</string>
+    <string name="select_language">Odaberite jezik</string>
+    <string name="select">Odaberite broj</string>
+    <string name="weather">Vrijeme</string>
+
+    <string name="city_name">Grad</string>
+    <string name="_23">23</string>
+
+    <string name="condition">Stanje</string>
+
+    <string name="time">vrijeme</string>
+    <string name="_20">20</string>
+    <string name="_13">13</string>
+
+    <string name="photos">Slike</string>
+    <string name="videos">Video</string>
+    <string name="fav_list">Omiljene znamenitosti</string>
+    <string name="cached">Keširano</string>
+    <string name="map">Mapa</string>
+    <string name="error_photos">Greška prilikom učitavanja slika</string>
+    <string name="error_videos">Greška prilikom učitavanja videa</string>
+    <string name="language_title">Odabrani jezik</string>
+    <string name="previous">Prethodna</string>
+    <string name="next">Sljedeca</string>
+    <string name="fragment_first"></string>
+    <string name="fragment_second"></string>
+    <string name="hello_first_fragment"></string>
+    <string name="about_content">Projektni zadatak za predmet Mobilno Računarstvo</string>
+    <string name="deleted">Obrisato</string>
+    <string name="saved">Sačuvano</string>
+    <string name="save">Sačuvaj postavke</string>
+</resources>

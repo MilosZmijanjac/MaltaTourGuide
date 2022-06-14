@@ -1,0 +1,53 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="@string/language_header">
+
+        <ListPreference
+            app:dialogTitle="@string/select_language"
+            app:defaultValue="@string/default_language"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:title="@string/language_title"
+            app:useSimpleSummaryProvider="true"
+            app:key="language_pref"
+            app:positiveButtonText="OK"/>
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory app:title="@string/city_header">
+        <ListPreference
+            app:key="photos_number"
+            app:defaultValue="5"
+            app:entries="@array/number_entries"
+            app:entryValues="@array/number_values"
+            app:title="@string/photos_pref_title"
+            app:useSimpleSummaryProvider="true"
+            app:dialogTitle="@string/select"/>
+        <ListPreference
+            app:defaultValue="5"
+            app:dialogTitle="@string/select"
+            app:key="videos_number"
+            app:entries="@array/number_entries"
+            app:entryValues="@array/number_values"
+            app:title="@string/videos_pref_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/news_header">
+
+        <SwitchPreferenceCompat
+            app:key="caching"
+            app:title="@string/caching_title"
+            app:summaryOff="@string/summary_off"
+            app:summaryOn="@string/summary_on"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <Preference
+            app:key="button"
+            app:title="@string/save"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_cities">
+    <fragment
+        android:id="@+id/nav_cities"
+        android:name="com.example.maltatourguide.ui.cities.CitiesFragment"
+        android:label="@string/menu_cities"
+        tools:layout="@layout/fragment_cities" />
+    <fragment
+        android:id="@+id/nav_sights"
+        android:name="com.example.maltatourguide.ui.sights.SightsFragment"
+        android:label="@string/menu_sights"
+        tools:layout="@layout/fragment_sights" />
+    <fragment
+        android:id="@+id/nav_news"
+        android:name="com.example.maltatourguide.ui.news.NewsFragment"
+        android:label="@string/menu_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.maltatourguide.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.maltatourguide.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_general"
+        android:name="com.example.maltatourguide.ui.general.GeneralFragment"
+        android:label="@string/menu_general"
+        tools:layout="@layout/fragment_general" />
+</navigation>
